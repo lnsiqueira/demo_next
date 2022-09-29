@@ -35,6 +35,7 @@ function Contador() {
         <div>
             <div>{contador}</div>
             <button onClick={addContador}>Adicionar</button>
+            <a href="https://google.com" class="btn btn-primary">Go to Google</a>
         </div>
     )
 }
